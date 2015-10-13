@@ -1,0 +1,8 @@
+name: PlayerFreezer
+main: me.endureblackout.playerfreeze.FreezeMain
+version: 1.0
+commands:
+      freezechat:
+         description: Freeze chat
+      freeze:
+         description: Freeze all or certain players
